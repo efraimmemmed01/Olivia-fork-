@@ -1,5 +1,5 @@
 import React from 'react'
-// import {Link} from {react-router-dom}
+
 import nav from '../../assets/Photo/nav.png';
 import img6 from '../../assets/Photo/microsoft.png';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
@@ -8,21 +8,28 @@ import { faChevronDown } from '@fortawesome/free-solid-svg-icons';
 import { faMagnifyingGlass } from '@fortawesome/free-solid-svg-icons';
 import { faCartShopping } from '@fortawesome/free-solid-svg-icons';
 
+
 const Header = () => {
     return (
-        <header className=' bg-amber-950 w-[100%]'>
+        <header className=' w-[100%]'>
             <img className='w-[100%]' src={nav} alt="Navigation" />
-            <div className=' w-[100%] bg-amber-400 flex items-center justify-center'>
+            <div className=' w-[80%] flex items-center justify-center mr-69! ml-29! mb-5!'>
                 <ul className='w-[100%] flex items-center text-black flex-4 gap-3'>
                     <li className='flex items-end'> <FontAwesomeIcon icon={faShop} />Mağazalar</li>
                     <li>Korporativ satışlar</li>
                 </ul>
                 <div className='text-black'> <FontAwesomeIcon icon={faChevronDown} /></div>
             </div>
+            <div className='flex'>
+                <ul>
+                    <li> Kampaniya</li>
+                    <li>Brendlər</li>
+                </ul>
+            </div>
 
 
 
-            <nav className='w-[100%] bg-amber-200 flex items-center justify-center gap-10'>
+            <nav className='w-[100%] flex items-center justify-center gap-10'>
                 <h1 className='text-purple-700 text-3xl'>Olivia</h1>
                 <div className='w-33 gap-2 flex items-center justify-center text-[20px] text-white bg-purple-600'> <img className='w-6' src={img6} alt="" />Kataloq</div>
                 <input className='border-black border-2 text-black w-[600px] h-[40px]' type="Axtarış..." placeholder='Axtarış'   />
