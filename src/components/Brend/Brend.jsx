@@ -15,8 +15,8 @@ import img5 from '../../assets/Photo/5.png';
 
 const Brend = () => {
     return (
-        <div className='bg-red-500 w-[100%] gap-4'>
-            <Swiper className='w-[90%] bg-amber-400'
+        <div className='w-[100%] gap-44'>
+            <Swiper className='w-[90%]'
                 spaceBetween={2}
                 slidesPerView={4}
                 onSlideChange={() => console.log('slide change')}
