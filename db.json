@@ -1,0 +1,120 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brand": "Bellodesign",
+      "title": "Black Corset",
+      "description": "Tuš Bellodesign Black Corset",
+      "price": 4.99,
+      "oldPrice": 8.99,
+      "discount": 44,
+      "image": " https://olivia.az/media/catalog/product/cache/ec3348cd707f11bd7a951e83328510dc/n/e/new_project_-_2025-09-19t112528.959.webp",
+      "badge": true,
+      "superOffer": true
+    },
+    {
+      "id": 2,
+      "brand": "Eveline",
+      "title": "Big Volume Lash",
+      "description": "Tuš Eveline Big Volume Lash Suyadavamlı",
+      "price": 8.99,
+      "oldPrice": null,
+      "discount": null,
+      "image": "  https://olivia.az/media/catalog/product/cache/233e207f02497442c6a5120342884f95/n/e/new_project_-_2023-05-15t143237.970.png",
+      "delivery": "2 saata qapında",
+      "badge": false,
+      "superOffer": false
+    },
+    {
+      "id": 3,
+      "brand": "Paese",
+      "title": "Liloosh Qara",
+      "description": "Tuš Paese Liloosh Qara",
+      "price": 14.99,
+      "oldPrice": 34.99,
+      "discount": 57,
+      "image": "https://olivia.az/media/catalog/product/cache/233e207f02497442c6a5120342884f95/t/m/tm-dg-csm-1119-mc-0084-1.png",
+      "delivery": "2 saata qapında",
+      "badge": true,
+      "superOffer": true
+    },
+    {
+      "id": 4,
+      "brand": "Vivienne Sabo",
+      "title": "Excentrique Həcm və Uzunluq",
+      "description": "Tuš Vivienne Sabo Excentrique Həcm və Uzunluq",
+      "price": 7.49,
+      "oldPrice": 11.39,
+      "discount": 34,
+      "image": "https://olivia.az/media/catalog/product/cache/233e207f02497442c6a5120342884f95/n/e/new_project_-_2025-09-22t100417.898.png",
+      "delivery": "2 saata qapında",
+      "badge": false,
+      "superOffer": false
+    },
+    {
+      "id": 5,
+      "brand": "L'Oreal",
+      "title": "Lash Paradise Ekstra Qara",
+      "description": "Tuš L'Oreal Lash Paradise Ekstra Qara",
+      "price": 14.99,
+      "oldPrice": 21.29,
+      "discount": 30,
+      "image": "https://olivia.az/media/catalog/product/cache/233e207f02497442c6a5120342884f95/t/m/tm-dg-csm-1119-mc-0126-1_1.png",
+      "delivery": "2 saata qapında",
+      "badge": false,
+      "superOffer": false
+    },
+    {
+      "id": 6,
+      "brand": "L'Oreal",
+      "title": "Lash Paradise Ekstra Qara",
+      "description": "Tuš L'Oreal Lash Paradise Ekstra Qara",
+      "price": 14.99,
+      "oldPrice": 21.29,
+      "discount": 30,
+      "image": "https://example.com/loreal-lash-paradise.jpg",
+      "delivery": "2 saata qapında",
+      "badge": false,
+      "superOffer": false
+    },
+    {
+      "id": 7,
+      "brand": "L'Oreal",
+      "title": "Lash Paradise Ekstra Qara",
+      "description": "Tuš L'Oreal Lash Paradise Ekstra Qara",
+      "price": 14.99,
+      "oldPrice": 21.29,
+      "discount": 30,
+      "image": "https://example.com/loreal-lash-paradise.jpg",
+      "delivery": "2 saata qapında",
+      "badge": false,
+      "superOffer": false
+    },
+    {
+      "id": 8,
+      "brand": "L'Oreal",
+      "title": "Lash Paradise Ekstra Qara",
+      "description": "Tuš L'Oreal Lash Paradise Ekstra Qara",
+      "price": 14.99,
+      "oldPrice": 21.29,
+      "discount": 30,
+      "image": "https://example.com/loreal-lash-paradise.jpg",
+      "delivery": "2 saata qapında",
+      "badge": false,
+      "superOffer": false
+    },
+    {
+      "id": 9,
+      "brand": "L'Oreal",
+      "title": "Lash Paradise Ekstra Qara",
+      "description": "Tuš L'Oreal Lash Paradise Ekstra Qara",
+      "price": 14.99,
+      "oldPrice": 21.29,
+      "discount": 30,
+      "image": "https://example.com/loreal-lash-paradise.jpg",
+      "delivery": "2 saata qapında",
+      "badge": false,
+      "superOffer": false
+    }
+  ]
+}
